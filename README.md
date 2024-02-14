@@ -21,12 +21,15 @@ Para colocar em prática meus conhecimentos de HTML, CSS e JavaScript, resolvi c
 ## Contribuição
 
 ## Licença
+![myImage](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)
 
+Este projeto está licenciado sob a <a href ="Licença MIT">Licença MIT</a>.
 ## Créditos
 
 ## Suporte
 
 ## Status do Projeto
+![myImage](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
 
 ## Exemplos e Demonstração
 
