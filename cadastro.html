@@ -6,6 +6,34 @@
     <title>Cadastro</title>
 </head>
 <body>
-    
+    <main>
+        <form>
+            Nome De Usuário: <input type="text" name="nome_de_usuario"><br>
+            Senha: <input type="password" name="senha_do_usuario"><br>
+            Email: <input type="email" name="email_do_usuario"><br>
+            Nome Completo : <input type="text" name="nome_completo"><br>
+            Data de nascimento : <input  type="date" name="data_de_nascimento" /><br>
+            Cidade : <input type="text" name="cidade"><br>
+            Estado : <input type="text" name="estado"><br>
+            País : <input type="text" name="pais"><br>
+            Complemento : <input type="text" name="complemento"><br>
+            CPF : <input type="text" name="cpf"><br>
+            RG : <input type="text" name="rg"><br>
+            <p>
+                <label for="card">
+                  <span>Identidades de Gênero:</span>
+                </label>
+                <select id="card" name="usercard">
+                    <option value="sem_escolha">...</option>
+                  <option value="homem_cis">Homem cisgênero</option>
+                  <option value="mulher_cis">Mulher cisgênero</option>
+                  <option value="homem_trans">Homem transgênero</option>
+                  <option value="mulher_trans">Mulher transgênero</option>
+                  <option value="nao_binario">Não-binário</option>
+                </select>
+              </p>
+              <button>Cadastrar</button>
+        </form>
+    </main>
 </body>
 </html>
