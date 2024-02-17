@@ -21,9 +21,9 @@ Para colocar em prática meus conhecimentos de HTML, CSS e JavaScript, resolvi c
 ## Contribuição
 
 ## Licença
-![myImage](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)
+[![myImage](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)](https://github.com/Luizinho101/Lista_de_tarefas/blob/main/LICENSE)
 
-Este projeto está licenciado sob a <a href ="Licença MIT">Licença MIT</a>.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/Luizinho101/Lista_de_tarefas/blob/main/LICENSE).
 ## Créditos
 
 ## Suporte
